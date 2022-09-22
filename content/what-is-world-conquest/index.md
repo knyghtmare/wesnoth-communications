@@ -6,7 +6,7 @@ Wouldn't it be great if you could play a whole campaign with friends? Well, you 
 
 ## What is World Conquest?
 
-World Conquest is a cooperative focused MP-campaign with high emphasis on army building and further augmentation of army composition with various modifiers such as artifact drops, training, and discoverable heroes. Each level exhibits increasing levels of epic-ness so the player team will be met with a truly satisfying experience either with a win or a loss.
+World Conquest is a cooperative focused MP-campaign with high emphasis on army building and further augmentation of army composition with various modifiers such as artifact drops, training, and discoverable heroes. Each successive scenario exhibits increasing levels of epic-ness so the player team will be met with a truly satisfying experience either with a win or a loss.
 
 ![](team-bonuses.png)
 
@@ -56,7 +56,7 @@ To resume a saved campaign, follow these steps.
 6. Tell your friend your game room's name so they can join you, or wait for another player.
 7. Click **I'm Ready** to start the game.
 
-## Want to play Solitaire?
+## Want to play World Conquest by Yourself?
 
 You can play **World Conquest** by yourself. Follow the steps above, but join the **Local Game** in step 2 and select **World Conquest 1p** in your game room.
 
